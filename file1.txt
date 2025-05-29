@@ -1,0 +1,2 @@
+in this file we r testing how to publish a file on github from local storage 
+using cmd line (terminal)
